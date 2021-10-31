@@ -1,4 +1,13 @@
 // solve_invers_matrix.cpp
+/*
+*
+* Solving Matrix By Using Invers Method
+* =============PROJECT============
+* Copyright (c) vali ahmad rahmani
+* Date Jan,16,2021
+* name solve_invers_matrix
+*
+*/
 #include <iostream>
 #include <fstream>
 #include <vector>
